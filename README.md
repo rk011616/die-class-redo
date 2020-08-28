@@ -1,2 +1,2 @@
-# Git Lab #2
-## First Team Member: Rowan Knutsen
+# The second Git Lab
+## Second Team Member: Rowan
