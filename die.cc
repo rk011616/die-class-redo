@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <cstlib>
+#include <cstdlib>
 #include "die.h"
 using namespace std;
 
@@ -39,10 +39,10 @@ int Die::getNumSides(){
 //helper functions
 int Die::roll(){
     faceValue = rand() % numSides +1;
-    return faceValue:
+    return faceValue;
 }
 
-ostream& operator <<(ostream &out, const Die %d){
+ostream& operator <<(ostream &out, const Die &d){
     out << d.faceValue;
     return out;
 }
