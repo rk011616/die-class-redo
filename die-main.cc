@@ -5,7 +5,7 @@
  */
 
 #include <iostream>
-#include <iomainip>
+#include <iomanip>
 #include <cstdlib>
 #include "die.h"
 using namespace std;
