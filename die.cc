@@ -2,6 +2,7 @@
 #include <fstream>
 #include <cstdlib>
 #include "die.h"
+#include <ctime>
 using namespace std;
 
 //constructors
